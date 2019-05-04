@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Linq;
+
 
 namespace Seminar11
 {
@@ -21,10 +19,10 @@ namespace Seminar11
                 new Product
                 {
                     Name = "tv",
-                    Category="electrocasnice",
-                    Description="mare",
-                    Price=23.00
-                    
+                    Category = "electrocasnice",
+                    Description = "mare",
+                    Price = 23.00
+
 
                 },
                 new Product
