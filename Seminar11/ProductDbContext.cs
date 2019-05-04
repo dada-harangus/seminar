@@ -11,6 +11,6 @@ namespace Seminar11
         }
 
         public DbSet<Product> Products { get; set; }
-        public DbContextOptions<ProductDbContext> Options { get; }
+        
     }
 }
